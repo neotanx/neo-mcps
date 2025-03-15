@@ -46,10 +46,7 @@ The server supports the following macOS system sounds:
 
 The server also supports playing MP4 video notifications. Here's an example of the default notification:
 
-<video width="400" controls>
-  <source src="assets/end-notification.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![End Notification Demo](assets/end-notification.gif)
 
 ## 📝 Complete Guide: Build and Use
 
