@@ -42,6 +42,15 @@ The server supports the following macOS system sounds:
 | Submarine | A submarine ping |
 | Tink | A light tink sound |
 
+## 🎬 Video Notifications
+
+The server also supports playing MP4 video notifications. Here's an example of the default notification:
+
+<video width="400" controls>
+  <source src="assets/end-notification.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 📝 Complete Guide: Build and Use
 
 ### Step 1: Build the Server
